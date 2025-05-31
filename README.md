@@ -20,7 +20,7 @@ Here is an example of Grafana dashboard for Kubernetes Capacity Planning
 Grafana dashboard for pod utilization
 ![AKS resources](/Images/grafana-podutilization.png)
 
-## Code organization details
+## Code organization details change
 
 - `Docker-compose V1`
 
